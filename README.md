@@ -1,2 +1,2 @@
 # scriptchildie.com
-Code repo
+Code repo for www.scriptchildie.com
